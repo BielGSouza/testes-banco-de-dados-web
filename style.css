@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+table{
+    width: 100%;
+}
+thead{
+    background-color: antiquewhite;
+}
+td{
+    border: 1px solid gray;
+}
+
+input{
+    padding: 2px;
+    margin: 3px;
+}
+
+#botaoverder{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(18, 221, 18);
+    width: 70px;
+    height: 30px;
+    color: white;
+}
+#botaoverder:hover{
+    background-color: rgba(4, 107, 4, 0.422);
+}
+
+#botaovermelho{
+    border: none;
+    border-radius: 5px;
+    background-color: red;    
+    width: 70px;
+    height: 30px;
+    color: white;
+}
+#botaovermelho:hover{
+    background-color: rgba(255, 0, 0, 0.392);
+}
+
+#cadastrar{
+    padding: 5px;
+    margin: 7px;
+}
